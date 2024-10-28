@@ -1,6 +1,16 @@
-# RichardLab21G01-Project2
+# Virtual Scroll Access System
+
+## Introduction
+
+This is our group project which looks into producing a virtual scrolls library for the SOFT2412 unit. To utilise the app please see code below.
 
 
+## Run the code
+
+To run the web application, follow the following instructions:
+1. Clone the repository to a directory of your preference
+2. Head to the repository installation and run the command `.\gradlew.bat bootRun` or `gradle run`. Wait a few seconds so that the local web server initialises.
+3. Once the web server is loaded, head to http://localhost:8888/.
 
 ## Tests
 
