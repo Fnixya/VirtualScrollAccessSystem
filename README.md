@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is our group project which looks into producing a virtual scrolls library for the SOFT2412 unit. To utilise the app please see code below.
+We develop here a web application for a binary file (virtual scroll) library, focusing on learning and applying Agile Methodologies in a team environment. I took the role of a Scrum Master and worked closely with the Product Owner for the communication between the stakeholders needs and the development team and the development of the Scrum Events.
 
 
 ## Run the code
