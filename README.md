@@ -5,6 +5,12 @@
 We develop here a web application for a binary file (virtual scroll) library, focusing on learning and applying Agile Methodologies in a team environment. I took the role of a Scrum Master and worked closely with the Product Owner for the communication between the stakeholders needs and the development team and the development of the Scrum Events.
 
 
+## Features
+
+It features:
+- The authorization and authentication of guests visitors, registered users and administrator's accounts.
+- The visualization of uploaded virtual scrolls (text format, pdf, images and videos). 
+
 ## Run the code
 
 To run the web application, follow the following instructions:
